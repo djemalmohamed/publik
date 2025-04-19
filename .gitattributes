@@ -3,3 +3,4 @@
 Postman[[:space:]]for[[:space:]]macOS[[:space:]](x64).zip filter=lfs diff=lfs merge=lfs -text
 *.app filter=lfs diff=lfs merge=lfs -text
 Postman.app filter=lfs diff=lfs merge=lfs -text
+Postman.zip filter=lfs diff=lfs merge=lfs -text
